@@ -86,10 +86,10 @@ xgrid();
 ```
 
 ## OUTPUT (LPF) : 
-<img width="766" height="719" alt="image" src="https://github.com/user-attachments/assets/3047f66d-228d-4a16-b1e6-ef0477d53dc3" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3047f66d-228d-4a16-b1e6-ef0477d53dc3" />
 
 ## OUTPUT (HPF) : 
-<img width="753" height="684" alt="image" src="https://github.com/user-attachments/assets/fd6cfce4-e0a2-4a93-a396-01146fe80dd1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fd6cfce4-e0a2-4a93-a396-01146fe80dd1" />
 
 ## RESULT: 
 Thus, design of Butterworth Low pass and High pass IIR filter waveforms were plotted and output was verified.
